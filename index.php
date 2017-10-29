@@ -1,6 +1,20 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108797349-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-108797349-1');
+    </script>
+
     <meta charset="UTF-8">
     <meta name="description" content="Very soon sur ton écran">
     <meta name="keywords"
