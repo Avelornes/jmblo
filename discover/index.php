@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="description" content="Very soon sur ton écran">
     <meta name="keywords"
-          content="générateur site, site au hasard, site féministe, générateur féministe, flemministe, je m'en bats les ovaires, hasard"/>
+          content="générateur site, site au hasard, site féministe, générateur féministe, flemministe, je m'en bats les ovaires, hasard, générateur, random"/>
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image"/>
     <meta name="twitter:site" content="@GiruFrei"/>
@@ -42,7 +42,8 @@
 
 <body>
 <div class="logo">
-    <h1><b>Je<span>men</span>bas<span>l</span>eso<span>vai</span>res<span>.fr</span></b>
+    <h1>
+        <b>Je<span>men</span>bat<span>sl</span>eso<span>vai</span>res<span>.fr</span></b>
     </h1>
 </div>
 <div class="generator">
