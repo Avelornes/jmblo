@@ -5,7 +5,7 @@ html, body {
 }
 
 body {
-    background: #112 url(//images.weserv.nl/?url=i.imgur.com/6QJjYMe.jpg) center no-repeat;
+    background: #112 url(//images.weserv.nl/?url=i.imgur.com/6QJjYMe.jpg) center repeat-y;
     background-size: cover;
     margin: 0
 }
@@ -136,6 +136,30 @@ footer a {
 
 footer a:visited{
     color: purple;
+}
+
+.mentions {
+    background: white;
+    width: 75%;
+    position: absolute;
+    top: 45%;
+    left: 10%;
+    border-radius: 5px;
+    padding: 0 2% 0 2%;
+    margin-bottom: 5%;
+}
+
+.mentions a{
+    text-decoration: none;
+    color: palevioletred;
+}
+
+.mentions a:visited{
+    color: purple;
+}
+
+.center {
+    text-align: center;
 }
 
 @media all and (max-device-width: 480px){

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title> test </title>
+    <title> Générateur | JMBLO </title>
 
     <!-- META -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -59,7 +59,7 @@
     </script>
 </div>
 <footer>
-    Made with love by <a href="https://twitter.com/GiruFrei">@GiruFrei</a>
+    Made with love by <a href="https://twitter.com/GiruFrei">@GiruFrei</a> - <a href="mentions.php">Mentions Légales</a>
 </footer>
 </body>
 </html>
