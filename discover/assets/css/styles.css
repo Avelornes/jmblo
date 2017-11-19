@@ -85,6 +85,9 @@ body {
     color: purple;
 }
 
+.generator p {
+    padding-bottom: 1%;
+}
 
 button {
     color: #fff;
@@ -104,7 +107,7 @@ button {
     top: 100%;
     left: 0;
     right: 0;
-    margin: 2% auto;
+    margin: auto;
 }
 
 button:hover {
