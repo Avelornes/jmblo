@@ -50,7 +50,7 @@
     <h2 id='joint'> Découvrir des projets de meufs cools ! </h2>
     <p>Chaînes Youtube, blogs, webzines, sites, projets en tout genre... Par des femmes, pour les femmes !</p>
     <p>Envie de rajouter un projet cool au générateur ? <br>
-        Envoyer un <a href="mailto:contact@severine-noel.fr">mail</a> - Mentionner sur <a
+        Faire une <a href="https://github.com/Avelornes/jmblo/pulls">pull request</a> - Envoyer un <a href="mailto:contact@severine-noel.fr">mail</a> - Mentionner sur <a
                 href="https://twitter.com/GiruFrei">Twitter</a> - Discuter sur <a href="https://t.me/BFrei">Telegram</a>
     </p>
     <button id='button'>Discover !</button>
