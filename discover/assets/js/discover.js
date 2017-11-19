@@ -75,7 +75,11 @@ function jmblogenerator(button, popup) {
         ['https://www.youtube.com/user/bookwormsita', false],
         ['https://motrices.tumblr.com', false],
         ['http://www.femmes-plurielles.be', false],
-        ['https://tictail.com/aleegribouilli', false]
+        ['https://twitter.com/AleeGribouillis', false],
+        ['http://hairnah.com', false],
+        ['https://www.youtube.com/channel/UCVf2py0nEmhiUH7pryhZdyg', false],
+        ['https://dare-bylouise.com/', false],
+        ['https://www.facebook.com/MeufPanam', false]
     ];
 
     var sites = null;
