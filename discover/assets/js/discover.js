@@ -79,7 +79,15 @@ function jmblogenerator(button, popup) {
         ['http://hairnah.com', false],
         ['https://www.youtube.com/channel/UCVf2py0nEmhiUH7pryhZdyg', false],
         ['https://dare-bylouise.com/', false],
-        ['https://www.facebook.com/MeufPanam', false]
+        ['https://www.facebook.com/MeufPanam', false],
+        ['https://www.kokoroe.fr/', false],
+        ['https://giolatache.wordpress.com/', false],
+        ['http://www.femmes-plurielles.be/', false],
+        ['https://www.youtube.com/channel/UC-Gakb-CMSC2zrHJsJh1L4w', false],
+        ['https://twitter.com/TwoFaceLizzie', false],
+        ['https://imagynons.blogspot.fr/', false],
+        ['https://www.youtube.com/channel/UCYDcas7E5OdHrW-Ly8Be0VA', false],
+        ['https://superbeepave.wordpress.com/', false]
     ];
 
     var sites = null;
