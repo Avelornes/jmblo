@@ -43,17 +43,17 @@
 <body>
 <div class="logo">
     <h1>
-        <b>Je<span>men</span>bat<span>sl</span>eso<span>vai</span>res<span>.fr</span></b>
+        <b>Le <span>rando</span>mis<span>eur </span>des <span>proj</span>ets co<span>ols!</span><br>
     </h1>
 </div>
 <div class="generator">
     <h2 id='joint'> Découvrir des projets de meufs cools ! </h2>
-    <p>Chaînes Youtube, blogs, webzines, sites, projets en tout genre... Par des femmes, pour les femmes !</p>
+    <p>Chaînes Youtube, blogs, webzines, sites, projets en tout genre... Par des femmes cis, trans, personnes non-binaires, pour toutes et tous !</p>
     <p>Envie de rajouter un projet cool au générateur ? <br>
         Faire une <a href="https://github.com/Avelornes/jmblo/pulls">pull request</a> - Envoyer un <a href="mailto:contact@severine-noel.fr">mail</a> - Mentionner sur <a
                 href="https://twitter.com/GiruFrei">Twitter</a> - Discuter sur <a href="https://t.me/BFrei">Telegram</a>
     </p>
-    <button id='button'>Discover !</button>
+    <button id='button'>Découvrir !</button>
     <script>
         var jmblogenerator = new jmblogenerator(document.getElementById('button'));
     </script>
