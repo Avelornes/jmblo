@@ -66,6 +66,10 @@ body {
     }
 }
 
+span.not {
+    font-size: 15px;
+}
+
 .generator {
     position: absolute;
     bottom: 30%;
